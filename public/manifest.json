@@ -3,11 +3,12 @@
   "background_color": "#472102",
   "display": "standalone",
   "scope": "/",
-  "start_url": "/",
+  "start_url": "https://booking-next-pwa.vercel.app/",
   "name": "Dunamis Farm",
   "short_name": "Dunamis Farm",
   "description": "Sistema de Gest\u00e3o",
   "id": "/",
+  "prefer_related_applications": true,
   "icons": [
     {
       "src": "/icon-192x192.png",
