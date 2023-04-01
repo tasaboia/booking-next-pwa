@@ -7,7 +7,7 @@
   "name": "Dunamis Farm",
   "short_name": "Dunamis Farm",
   "description": "Sistema de Gest\u00e3o",
-
+  "id": "/",
   "icons": [
     {
       "src": "/icon-192x192.png",
