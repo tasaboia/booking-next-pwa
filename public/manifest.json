@@ -1,9 +1,9 @@
 {
   "theme_color": "#472102",
   "background_color": "#472102",
-  "display": "fullscreenFV",
-  "scope": "/",
-  "start_url": "/",
+  "display": "standalone",
+  "scope": "https://booking-next-pwa.vercel.app/",
+  "start_url": "https://booking-next-pwa.vercel.app/",
   "name": "Dunamis Farm",
   "short_name": "Dunamis Farm",
   "description": "Sistema de Gest\u00e3o",
